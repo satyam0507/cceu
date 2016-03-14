@@ -1,0 +1,10 @@
+body{
+    background-color:#E0E3DA;
+    font-family: batmanforeveralternate;
+}
+#workarea{
+    display:none;
+}
+.pull-right{
+    float:right;
+}
